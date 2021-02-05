@@ -33,7 +33,8 @@ The output file consists of JSON formatted tweets, separated by newlines. Each t
 
 Sample tweet:
 
-```{
+```
+{
     "id": 1118129766413033472,
     "text": "Majority of Republicans think evangelical Christians are more discriminated against than minorities\u2026 https://t.co/PeJSEoc2Ea",
     "softSentiment": "positive",
